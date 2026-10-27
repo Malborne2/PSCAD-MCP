@@ -1,0 +1,6 @@
+<Meta name="mcp_demo">
+  <messagelist />
+  <ViewContext>
+    <Window defn="mcp_demo:Main" call="0" />
+  </ViewContext>
+</Meta>

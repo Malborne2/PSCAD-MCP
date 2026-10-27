@@ -1,0 +1,7 @@
+mcp>=2.0
+mhi-pscad>=3.1.3
+mhi-psout>=2.0.0
+pywin32>=306
+
+# optional, only needed for plot_result.py
+matplotlib>=3.8

@@ -1,0 +1,1 @@
+"""PSCAD MCP server package."""

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.gf*_x86/
+*.gf*/
+*.bakx
+.sconsign.dblite
+*.map
+*.exe
+*.o
+*.psout
